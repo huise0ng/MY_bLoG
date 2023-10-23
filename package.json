@@ -1,3 +1,11 @@
+"scripts": {
+  "deploy": "gatsby build && gh-pages -d public -b master"
+}
+
+"scripts": {
+  "deploy": "gatsby build && gh-pages -d public -b deploy"
+}
+
 {
   "name": "gatsby-starter-blog",
   "private": true,
