@@ -1,5 +1,5 @@
 "scripts": {
-  "deploy": "gatsby build && gh-pages -d public -b master"
+  "deploy": "gatsby build && gh-pages -d public -b main"
 }
 
 "scripts": {
